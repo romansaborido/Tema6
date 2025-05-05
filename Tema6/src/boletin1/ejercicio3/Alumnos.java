@@ -1,4 +1,4 @@
-package ejercicio3;
+package boletin1.ejercicio3;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

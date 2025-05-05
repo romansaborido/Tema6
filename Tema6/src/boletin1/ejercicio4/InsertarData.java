@@ -1,4 +1,4 @@
-package ejercicio4;
+package boletin1.ejercicio4;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
