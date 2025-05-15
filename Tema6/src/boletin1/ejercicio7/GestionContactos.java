@@ -15,8 +15,7 @@ public class GestionContactos {
 		Contacto[] contactos = new Contacto[20];
 		
 		// Leemos el fichero
-		try {
-			BufferedReader br = new BufferedReader(new FileReader(fileContactos));
+		try (BufferedReader br = new BufferedReader(new FileReader(fileContactos))) {
 			
 			// Obtenemos la primera linea
 			String linea = br.readLine();
