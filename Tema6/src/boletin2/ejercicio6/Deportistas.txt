@@ -1,0 +1,6 @@
+Nombre                      Edad	Peso	Estatura
+Juan Pedro Pérez Gómez		25		70.5	1.80
+Ana Ruiz del Val			23		60		1.75
+Roman Saborido Cobano		18		68		1.72
+Luis Fernández Sánchez		28		78		1.80
+Musonda Junior				22		71		1.76
